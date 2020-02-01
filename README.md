@@ -1,2 +1,2 @@
 # ACM Git Demo
-Made by Jono
+A Git Presentation and Demonstration that I held for the University of South Alabama ACM chapter. 
